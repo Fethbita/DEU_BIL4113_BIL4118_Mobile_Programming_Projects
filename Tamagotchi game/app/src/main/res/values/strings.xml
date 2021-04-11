@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Virtual Pet</string>
+    <string name="feed">Feed</string>
+    <string name="food">Hunger:</string>
+    <string name="food1">Food +5</string>
+    <string name="food2">Food +10</string>
+    <string name="water">Thirst:</string>
+    <string name="water1">Water +5</string>
+    <string name="water2">Water +10</string>
+</resources>
